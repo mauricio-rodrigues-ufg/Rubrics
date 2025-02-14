@@ -79,5 +79,3 @@ Com a aplicação da rubrica, o aluno será orientado a criar representações v
 | **Nível 3** | ⚠️ Mapas conceituais claros e razoavelmente completos.<br>⚠️ Boa contribuição na integração dos mapas.<br>⚠️ Trechos de código bem alinhados com a maioria dos objetivos.<br>⚠️ Programa funcional, com pequenos erros encontrados nos testes. |
 | **Nível 2** | ❌ Mapas conceituais básicos, com algumas omissões.<br>❌ Contribuição mínima para a integração dos mapas.<br>❌ Trechos de código parcialmente alinhados com os objetivos.<br>❌ Programa testado, mas com erros significativos. |
 | **Nível 1** | ❌ Mapas conceituais incompletos ou incorretos.<br>❌ Não participou efetivamente na integração dos mapas.<br>❌ Trechos de código não alinhados com os objetivos.<br>❌ Programa final não testado ou com falhas graves. |
-
-
