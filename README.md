@@ -437,8 +437,6 @@ Esta atividade incentiva os alunos a identificar e utilizar padrões de programa
 | **Nível 1** | ❌ Não realizou a pesquisa taxonômica.<br>❌ Não desenvolveu o padrão de programação.<br>❌ Não implementou ou testou o padrão.<br>❌ Reflexão não realizada ou irrelevante. |
 
 
-# Rubrica do Professor
-
 ## Tarefa: monitoramento da resolução de problemas de programação.
 
 ## Importância da Tarefa
@@ -471,8 +469,6 @@ O automonitoramento e a metacognição são fundamentais para que o aluno compre
 # Área Motivacional
 
 ## Autorregulação
-
-# Rubrica do Professor
 
 ## Tarefa: Monitoramento da Motivação em Programação
 
@@ -508,8 +504,6 @@ A fase 3 dos resultados preliminares aborda a aplicação das rubricas educacion
 
 ### Autorregulação
 
-# Rubrica do Professor
-
 ## Tarefa: Combinando Padrões de Programação
 
 ### Importância da Tarefa
@@ -535,8 +529,6 @@ Utilizar padrões de programação para estruturar e refinar o processo de escri
 | **Nível 2** | ❌ Pesquisa básica realizada, com pouca aplicação de padrões de programação.<br>❌ Algoritmo desenvolvido com aplicação mínima de padrões.<br>❌ Refinamentos superficiais do algoritmo.<br>❌ Alguma discussão em grupo, mas com pouco entendimento compartilhado.<br>❌ Reflexões superficiais sobre a experiência. |
 | **Nível 1** | ❌ Não realizou pesquisa adequada sobre escrita de textos.<br>❌ Algoritmo desenvolvido não aplica corretamente os padrões de programação.<br>❌ Falha em refinar ou implementar o algoritmo proposto.<br>❌ Discussão em grupo não realizada ou ineficaz.<br>❌ Reflexões não realizadas ou irrelevantes. |
 
-
-# Rubrica do Professor
 
 ## Tarefa: adaptando padrões de programação.
 
@@ -566,9 +558,6 @@ Utilizar e adaptar um padrão de programação existente em diversos contextos d
 
 
 # Corregulação e Regulação Compartilhada
-
-
-# Rubrica do Professor
 
 ## Tarefa: Subdividindo o Problema
 
@@ -601,9 +590,6 @@ Resolver um problema de programação complexo através da divisão em subproble
 | **Nível 3** | ⚠️ Decomposição adequada do problema em subproblemas.<br>⚠️ Desenvolvimento dos fragmentos de código com pequenos erros, boa integração.<br>⚠️ Reflexões adequadas sobre a participação e aprendizado. |
 | **Nível 2** | ❌ Decomposição do problema incompleta ou inadequada.<br>❌ Desenvolvimento parcial dos fragmentos de código com muitos erros.<br>❌ Reflexões superficiais sobre a motivação e o engajamento. |
 | **Nível 1** | ❌ Falha em decompor o problema ou em desenvolver partes do código.<br>❌ Integração dos fragmentos de código não realizada.<br>❌ Reflexões pós-tarefa ausentes ou inadequadas. |
-
-
-# Rubrica do Professor
 
 ## Tarefa: Analisando e Construindo sobre Artefatos de Software de Terceiros
 
@@ -650,9 +636,6 @@ A análise e construção sobre artefatos de software de terceiros é uma aborda
 # Área Motivacional
 
 ## Autorregulação
-
-
-# Rubrica do Professor
 
 ## Tarefa: Reduzindo a Ansiedade em Programação
 
@@ -735,7 +718,7 @@ Fomentar um ambiente colaborativo em que todos os membros do grupo se sintam enc
 
 ## Autorregulação
 
-## Fase: Kanban para gestão de tarefas de programação
+## Tarefa: Kanban para gestão de tarefas de programação
 
 ## Importância da Tarefa
 Esta atividade se concentra em utilizar a metodologia *Kanban* para gerenciar e visualizar tarefas de programação, promovendo a eficiência na execução de tarefas subdivididas e o controle do trabalho em progresso. O *Kanban* ajuda os alunos a focar em tarefas específicas, limitando a quantidade de trabalho em andamento e incentivando a conclusão de tarefas de maneira ordenada e eficiente.
@@ -791,7 +774,7 @@ Esta atividade envolve a prática do *Coding Dojo* no estilo *Randori*, onde os 
 | **Nível 2** | ❌ Organização básica, mas com problemas na definição de papéis.<br>❌ Implementação com alguma colaboração, mas rotinas de rotação mal gerenciadas.<br>❌ *Feedback* limitado e pouco utilizado para melhorias.<br>❌ Documentação e reflexão parciais.<br>❌ Apresentação realizada, mas com pouca clareza ou engajamento. |
 | **Nível 1** | ❌ Falha na organização e preparação do *Dojo*.<br>❌ Implementação desorganizada, sem seguimento das regras de *Randori*.<br>❌ Pouco ou nenhum *feedback* efetivamente integrado.<br>❌ Reflexão e documentação incompletas ou ausentes.<br>❌ Apresentação final não realizada ou ineficaz. |
 
-## Fase: Coding DOJO (Kata) em programação introdutória
+## Tarefa: Coding DOJO (Kata) em programação introdutória
 
 ## Importância da Tarefa
 
@@ -821,7 +804,7 @@ Esta atividade envolve a realização de um *Coding Dojo*, uma prática colabora
 
 ## Autorregulação
 
-## Fase: Escrevendo, monitorando, editando e revisando o código do programa
+## Tarefa: Escrevendo, monitorando, editando e revisando o código do programa
 
 ## Importância da Tarefa
 Esta tarefa envolve a colaboração em equipe através da atribuição e possível realocação dinâmica de papéis específicos no processo de desenvolvimento de software. Os participantes assumem os papéis de escritor, consultor, editor e revisor, facilitando diversas abordagens cognitivas durante a escrita do código. Essa estrutura permite que o aluno compreenda diferentes abordagens na construção do código, aprimorando a qualidade da solução final. Com a aplicação da rubrica, o aluno será guiado na definição clara de papéis, promovendo a troca de conhecimento entre escritor, consultor, editor e revisor. Esse processo incentiva feedbacks construtivos, revisões iterativas e ajustes no código, fortalecendo a aprendizagem coletiva.
@@ -909,10 +892,7 @@ Refletir sobre erros e acertos é essencial para o aprimoramento contínuo do al
 ## Corregulação e Regulação Compartilhada
 
 
-
-# Rubrica do Professor
-
-## Fase: Refletindo sobre diferentes soluções computacionais
+## Tarefa: Refletindo sobre diferentes soluções computacionais
 
 ## Importância da Tarefa
 
@@ -946,10 +926,7 @@ A reflexão sobre diferentes soluções computacionais é essencial para o desen
 
 ## Autorregulação
 
-
-# Rubrica do Professor
-
-## Fase: Codificando juntos a partir de experiências prévias
+## Tarefa: Codificando juntos a partir de experiências prévias
 
 ### Importância da Tarefa
 Esta atividade envolve a codificação colaborativa utilizando conhecimentos e experiências anteriores dos alunos. Os membros do grupo trabalham juntos para combinar suas ideias e experiências prévias em soluções para problemas atuais, promovendo um ambiente de aprendizado colaborativo e aplicando a transferência de conhecimento de situações passadas para novos desafios.
@@ -989,9 +966,7 @@ A codificação colaborativa baseada em experiências prévias é uma abordagem 
 
 ## Autorregulação
 
-# Rubrica do Professor
-
-## Fase: Planejando, Monitorando, Agindo e Refletindo sobre o Contexto de Programação
+## Tarefa: Planejando, Monitorando, Agindo e Refletindo sobre o Contexto de Programação
 
 ## Importância da Tarefa
 
