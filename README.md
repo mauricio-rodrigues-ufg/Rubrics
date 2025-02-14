@@ -20,7 +20,7 @@ Ao revisar os conceitos fundamentais previamente, os alunos chegam mais preparad
 **Descrição da Rubrica:**
 Antes de começar a programar, é essencial que o aluno compreenda bem os conceitos fundamentais. Com essa rubrica, o aluno será guiado para revisar os conceitos teóricos necessários antes de iniciar a codificação, garantindo uma base sólida para a solução de problemas. Isso significa que ele terá a oportunidade de listar e revisar previamente os conceitos mais importantes, compartilhar suas dúvidas com colegas e professor, e aplicar esse conhecimento na prática durante a programação em grupo. Dessa forma, a rubrica auxilia no aprendizado estruturado e eficaz, promovendo a participação ativa e reflexiva do aluno durante todo o processo.
 
-**Passo-a-passo da tarefa:**
+**Passo a Passo da tarefa:**
 
 1. **Antes da sala de aula:**
     - Individualmente, após ler o enunciado do problema, cada aluno deve listar os conceitos de programação necessários para a codificação e fazer uma revisão desses conceitos, anotando dúvidas. (Entregar)
@@ -64,7 +64,7 @@ O uso de mapas conceituais e diagramas ajuda o aluno a visualizar e organizar as
 
 Com a aplicação da rubrica, o aluno será orientado a criar representações visuais individuais, integrar suas ideias em grupo, relacionar essas representações com trechos de código e testar a solução desenvolvida. Dessa forma, a rubrica auxilia o aluno a desenvolver um pensamento lógico e estruturado, tornando o processo de programação mais eficiente e compreensível.
 
-**Passo-a-Passo da Tarefa**
+**Passo a Passo da Tarefa**
 1. **Construção de Mapas Conceituais Individuais**: Cada aluno usa o software *MindMaster* para criar um mapa conceitual descrevendo o desenho de sua solução, incluindo os objetivos e como eles se conectam aos dados de entrada e saída. *(Entregar mapa conceitual individual.)*
 2. **Integração em Grupo**: Em grupo, combinar os mapas conceituais individuais para formar um mapa conceitual unificado que descreva o desenho da solução conjunta, discutir as diferentes perspectivas e chegar a um consenso. *(Entregar mapa conceitual integrado.)*
 3. **Codificação**: Dividir as metas de solução entre os integrantes e incorporar no mapa conceitual os trechos de código relativos a cada meta. Combinar todos os trechos de código para formar o código final do programa. *(Entregar os trechos de código e o código final.)*
@@ -92,7 +92,7 @@ Desenvolver um desenho detalhado de uma solução algorítmica para um problema 
 ### **Descrição da Rubrica**
 A construção de um desenho detalhado antes da codificação permite que o aluno planeje melhor a solução algorítmica, compreendendo suas partes essenciais e inter-relações. Essa abordagem reduz erros, melhora a estrutura do código e facilita sua implementação e teste. Com o apoio da rubrica, o aluno será guiado a refletir sobre a solução, descrever algoritmicamente os passos necessários, integrar ideias em grupo e, finalmente, codificar e testar a implementação. Dessa forma, a rubrica promove um aprendizado mais estratégico e eficiente, ajudando o aluno a desenvolver habilidades fundamentais de planejamento e organização antes da programação.
 
-### **Passo-a-passo da tarefa**
+### **Passo a Passo da tarefa**
 1. **Reflexão individual:** Cada aluno reflete sobre suas expectativas e entendimento inicial do desenho requerido pelo professor e como isso impactou sua abordagem para resolver o problema. *(Entregar reflexões individuais.)*
 2. **Desenho algorítmico individual:** Descrever algoritmicamente em alto nível o desenho da solução, incluindo os dados de entrada e saída e o processo de transformação dos dados. *(Entregar descrição algorítmica.)*
 3. **Integração em grupo:** Em grupo, escolher, integrar e/ou adaptar os desenhos individuais em um desenho compartilhado. Criar planos ou utilizar padrões de programação a partir desse desenho coletivo. *(Entregar o desenho integrado e os planos.)*
@@ -118,7 +118,7 @@ A codificação para resolver problemas é uma das atividades de aprendizagem ma
 ## Definição do Problema
 (A SER FORMULADO PELO PROFESSOR)
 
-## Passo-a-Passo da Tarefa
+## Passo a Passo da Tarefa
 
 1. **Individualmente** leia o problema e responda:
    - Quais são os dados de entrada e saída? (entregar).
@@ -164,7 +164,7 @@ A codificação para resolver problemas é uma das atividades de aprendizagem ma
 ### **Descrição da Rubrica**
 Antes de iniciar a codificação, é fundamental que o aluno compreenda detalhadamente o problema e ative conhecimentos prévios que possam auxiliar na solução. Essa abordagem estruturada ajuda a organizar melhor o pensamento lógico e evita erros comuns durante a programação. Com o apoio da rubrica, o aluno será orientado a identificar corretamente os dados de entrada e saída, escolher os tipos de variáveis adequados, definir claramente os objetivos da solução e buscar analogias com problemas resolvidos anteriormente. Além disso, a reflexão individual e a interação em grupo permitirão um entendimento mais profundo da especificação do problema, garantindo que a codificação seja mais eficiente e alinhada aos requisitos. Dessa forma, a rubrica contribui para que o aluno desenvolva habilidades analíticas e estratégicas essenciais para a programação.
 
-### **Passo-a-passo da tarefa**
+### **Passo a Passo da tarefa**
 1. **Individualmente leia o problema e responda:**  
    - Quais são os dados de entrada e saída? *(Entregar.)*  
    - Quais são os tipos de variáveis adequados? *(Entregar.)*  
@@ -212,7 +212,7 @@ Identificar e compreender os diferentes tipos de erros em programação, como er
 ### **Descrição da Rubrica:**
 O entendimento compartilhado de conceitos fundamentais de programação é essencial para a aprendizagem eficaz. A aplicação da técnica Jigsaw permite que o aluno aprofunde seus conhecimentos sobre diferentes tipos de erros e desafios na programação por meio de entrevistas com especialistas e troca de informações com colegas. A rubrica auxilia o aluno ao estruturar essa abordagem colaborativa, garantindo que cada um compreenda detalhadamente os erros de compilação, execução e lógica, além de boas práticas em testes e estruturas de controle. Dessa forma, a atividade promove um aprendizado ativo e reflexivo, fortalecendo a compreensão conceitual e a capacidade de solucionar problemas de maneira eficiente.
 
-### **Passo-a-passo da Tarefa:**
+### **Passo a Passo da Tarefa:**
 1. Os alunos são divididos em cinco grupos, cada um focando em um tipo específico de erro ou conceito de programação. Cada grupo realiza entrevistas com pelo menos dois especialistas sobre o tópico atribuído. (**Entregar**)
 2. Os grupos são reorganizados para que cada novo grupo contenha pelo menos um aluno de cada grupo original. Cada aluno compartilha os conhecimentos adquiridos durante as entrevistas com os outros membros do grupo. (**Entregar**)
 3. Individualmente, os alunos devem refletir e fornecer exemplos sobre erros de compilação, execução, lógica e outros tópicos discutidos. (**Entregar**)
@@ -240,7 +240,7 @@ O entendimento compartilhado de conceitos fundamentais de programação é essen
 
 **Descrição da Rubrica:** Desenvolver um diálogo interno positivo é essencial para que o aluno enfrente os desafios da programação com mais resiliência e confiança. A aplicação da rubrica orienta o aluno a criar afirmações positivas, praticá-las regularmente e avaliar seu impacto no aprendizado e na motivação. Ao refletir sobre a experiência e compartilhar insights com os colegas, o aluno pode perceber mudanças na forma como lida com dificuldades, fortalecendo sua mentalidade de crescimento. Dessa maneira, a rubrica auxilia no desenvolvimento de uma abordagem mais construtiva e proativa, tornando o processo de aprendizagem mais eficiente e motivador.
 
-**Passo-a-Passo da Tarefa:**
+**Passo a Passo da Tarefa:**
 1. Cada aluno cria uma lista de afirmações positivas que podem ser usadas para enfrentar desafios em programação. Estas afirmações devem refletir uma atitude resiliente e uma disposição para aprender com os desafios (entregar).
 2. Instruir os alunos a praticar estas afirmações diariamente, especialmente antes e durante as sessões de programação. O objetivo é integrar essas afirmações no diálogo interno para transformar a abordagem aos desafios (entregar).
 3. Realizar discussões em grupo sobre como o uso de afirmações positivas tem impactado a abordagem dos alunos aos problemas de programação. Compartilhar experiências e *feedback* sobre a eficácia das afirmações (entregar).
@@ -270,7 +270,7 @@ O entendimento compartilhado de conceitos fundamentais de programação é essen
 
 **Descrição da Rubrica:** A utilização do *Kanban* como ferramenta de autoavaliação permite que o aluno gerencie seu próprio aprendizado de forma visual e estruturada, acompanhando seu progresso nos conceitos teóricos e práticos de programação. Com o apoio da rubrica, o aluno é incentivado a organizar seus estudos, refletir sobre sua compreensão e identificar áreas que necessitam de mais atenção. Ao mover conceitos entre as colunas A ESTUDAR, ESTUDANDO e APRENDIDO, o aluno desenvolve autonomia e uma abordagem mais eficaz para o aprendizado. Dessa forma, a rubrica auxilia na construção de um processo de aprendizado contínuo e autônomo, garantindo que o aluno não apenas estude os conceitos, mas realmente os compreenda e saiba aplicá-los de maneira prática.
 
-**Passo-a-passo da tarefa:**
+**Passo a Passo da tarefa:**
 
 1. **Construção do *Kanban***: Cada aluno constrói um quadro *Kanban* com as colunas: A ESTUDAR, ESTUDANDO e APRENDIDO. Iniciar com todos os conceitos na coluna A ESTUDAR. *(Entregar)*
 2. **Estudo dos Conceitos**: Mover conceitos para a coluna ESTUDANDO à medida que são estudados. Utilizar vídeos de aula e materiais fornecidos para aprofundar o entendimento. *(Entregar)*
@@ -302,7 +302,7 @@ Implementar um sistema **Kanban** para organizar e gerenciar tarefas de programa
 
 A metodologia **Kanban** é uma ferramenta poderosa para organizar e gerenciar tarefas de programação, permitindo que os alunos visualizem seu fluxo de trabalho e acompanhem o progresso de suas atividades. Com a aplicação da rubrica, o aluno será guiado a estruturar suas tarefas, subdividi-las estrategicamente e monitorar a evolução do trabalho de maneira eficiente. Isso melhora a organização, evita a sobrecarga de tarefas e aprimora a produtividade, desenvolvendo habilidades essenciais de planejamento e gerenciamento, fundamentais para a programação e a vida profissional.
 
-## **Passo-a-Passo da Tarefa**
+## **Passo a Passo da Tarefa**
 
 1. **Configurar um quadro Kanban** com as colunas **A FAZER, FAZENDO e FEITO**, incluindo cartões para cada tarefa identificada e priorizando-as conforme a necessidade. (**Entregar**)
 2. **Subdividir tarefas maiores** em subtarefas menores, definindo prazos realistas com flexibilidade para ajustes conforme necessário. (**Entregar**)
@@ -333,7 +333,7 @@ Implementar a metodologia *Scrum* para organizar e gerenciar tarefas de desenvol
 ### **Descrição da Rubrica**
 A metodologia *Scrum* proporciona ao aluno uma experiência prática de gestão ágil de projetos, promovendo a colaboração eficiente e a organização estruturada do trabalho em equipe. A rubrica auxilia o aluno na definição clara dos papéis dentro da equipe, na construção de um *backlog* bem estruturado e na execução disciplinada de *sprints*, garantindo que as tarefas sejam concluídas com eficiência e qualidade. Além disso, o processo de revisão e retrospectiva permite que o aluno reflita sobre seu desempenho e encontre oportunidades de melhoria contínua. Dessa forma, a aplicação da rubrica fortalece o aprendizado prático de metodologias ágeis, preparando o aluno para desafios reais do desenvolvimento de software.
 
-### **Passo-a-Passo da Tarefa**
+### **Passo a Passo da Tarefa**
 1. **Formação da equipe e definição de papéis:** Escolher os papéis dentro da equipe, incluindo o Dono do Produto, o *Scrum Master* e os membros da equipe. O Dono do Produto define o que precisa ser feito, o *Scrum Master* facilita o processo, e os membros da equipe executam as tarefas (*entregar a definição dos papéis*).
 2. **Criação do *backlog* do produto:** Listar todas as necessidades do projeto, priorizadas pelo Dono do Produto. O *backlog* é dinâmico e será atualizado conforme o projeto avança (*entregar o *backlog* inicial*).
 3. **Planejamento dos *sprints*:** Definir o escopo do primeiro *sprint*, selecionando tarefas do *backlog* que serão concluídas dentro de um período pré-definido. Determinar quem fará o quê e o tempo necessário para cada tarefa (*entregar o planejamento do *sprint*).
@@ -362,7 +362,7 @@ A técnica Jigsaw é utilizada para explorar questões fundamentais das linguage
 ### **Definição do Problema**
 Identificar e compreender os diferentes tipos de erros em programação, como erros de compilação, execução e lógica, além de questões relacionadas a testes de casos e utilização adequada de estruturas de dados e controle.
 
-### **Passo-a-Passo da Tarefa**
+### **Passo a Passo da Tarefa**
 1. Os alunos são divididos em cinco grupos, cada um focando em um tipo específico de erro ou conceito de programação. Cada grupo realiza entrevistas com pelo menos dois especialistas sobre o tópico atribuído. (Entregar)
 2. Os grupos são reorganizados para que cada novo grupo contenha pelo menos um aluno de cada grupo original. Cada aluno compartilha os conhecimentos adquiridos durante as entrevistas com os outros membros do grupo. (Entregar)
 3. Individualmente, os alunos devem refletir e fornecer exemplos sobre erros de compilação, execução, lógica e outros tópicos discutidos. (Entregar)
@@ -393,7 +393,7 @@ Esta atividade foca em aplicar padrões de programação em contextos de jogos r
 ### **Definição do Problema**
 Desenvolver e implementar jogos que utilizem padrões de programação específicos, e explorar como a experiência de jogar e entender esses jogos pode melhorar a capacidade de aplicar padrões de programação em software.
 
-## **Passo-a-Passo da Tarefa**
+## **Passo a Passo da Tarefa**
 
 1. **Seleção de jogos e padrões de programação:** Cada aluno escolhe um jogo para implementar que incorpore pelo menos um padrão de programação identificável. Escolher jogos simples que possam ser explicados e jogados rapidamente. *(Entregar a descrição dos jogos e padrões utilizados.)*
 2. **Implementação do Jogo 1:** Criar um jogo (Jogo 1) que utilize padrões de programação fundamentais, como contadores ou repetições, explicando como esses padrões são aplicados no jogo.
@@ -419,7 +419,7 @@ Desenvolver e implementar jogos que utilizem padrões de programação específi
 
 Esta atividade incentiva os alunos a identificar e utilizar padrões de programação aplicando conceitos de taxonomia biológica. A habilidade de reconhecer padrões comuns em problemas distintos é essencial para desenvolver soluções eficientes e reutilizáveis em programação. A rubrica auxilia os alunos na pesquisa da classificação taxonômica de uma espécie, no desenvolvimento de um padrão de programação baseado nesse conceito e na reflexão sobre sua adaptabilidade em outros contextos, fortalecendo a compreensão da reutilização de código.
 
-## Passo-a-passo da Tarefa
+## Passo a Passo da Tarefa
 
 1. **Pesquisa Taxonômica:** Escolher uma espécie do Reino Plantae e pesquisar sua classificação taxonômica completa na internet (entregar resumo da pesquisa).
 2. **Desenvolvimento de Padrões de Programação:** Desenvolver um padrão de programação que possa verificar se um dado pertence à espécie escolhida, utilizando conceitos de taxonomia aprendidos. O padrão deve ser geral o suficiente para ser adaptado a outras espécies ou contextos (entregar o código-fonte).
@@ -448,7 +448,7 @@ Implementar estratégias eficazes de automonitoramento para identificar e supera
 ## Descrição da Rubrica
 O automonitoramento e a metacognição são fundamentais para que o aluno compreenda suas dificuldades e aprimore suas estratégias na resolução de problemas de programação. Com a aplicação da rubrica, o aluno será guiado a identificar suas dificuldades iniciais, planejar e implementar uma solução, testar e revisar seu código e refletir sobre sua abordagem. Além disso, a troca de ideias em grupo permite a comparação de diferentes estratégias, ampliando sua visão sobre a programação. Dessa forma, a rubrica auxilia o aluno a desenvolver um pensamento crítico e iterativo, promovendo um aprendizado mais autônomo e eficiente.
 
-## Passo-a-passo da Tarefa
+## Passo a Passo da Tarefa
 1. **Autoavaliação inicial:** realizar uma autoavaliação individual para identificar dificuldades em conteúdos teóricos e práticos de programação, bem como na compreensão e definição de problemas (entregar resumo da autoavaliação).
 2. **Desenvolvimento de soluções:** selecionar um problema de programação específico e desenvolver um plano para sua resolução, considerando a entrada, processamento e saída necessários. Implementar o plano em um programa (entregar descrição do problema, plano e código do programa).
 3. **Teste e revisão:** testar o programa desenvolvido para identificar erros e áreas de melhoria. Revisar o código com base nos testes e *feedback* recebido, ajustando a estratégia de programação conforme necessário (entregar resultados dos testes e versão revisada do código).
@@ -478,7 +478,7 @@ Esta atividade enfoca o desenvolvimento da autoeficácia e motivação dos aluno
 ## Definição do Problema
 Utilizar a autoavaliação e a discussão em grupo para explorar e melhorar a motivação e a autoeficácia dos alunos em programação, abordando desafios e estabelecendo estratégias para o desenvolvimento contínuo de habilidades de programação.
 
-## Passo-a-passo da Tarefa
+## Passo a Passo da Tarefa
 1. **Reflexão individual:** Cada aluno realiza uma autoavaliação focada em suas experiências e sentimentos sobre programação, refletindo sobre suas dificuldades, sucesso e estratégias de aprendizagem (entregar resumo da autoavaliação).
 2. **Desenvolvimento de estratégias pessoais:** Baseando-se na autoavaliação, cada aluno deve elaborar estratégias pessoais para melhorar sua performance em programação, considerando metas específicas e ações concretas (entregar plano de ação).
 3. **Discussão em grupo:** Discutir em grupo as reflexões e estratégias individuais, considerando como o grupo pode apoiar cada membro em seus objetivos. Avaliar a dinâmica do grupo e propor melhorias para uma colaboração mais efetiva (entregar resumo da discussão grupal).
@@ -512,7 +512,7 @@ Esta atividade desafia os alunos a aplicar padrões de programação no contexto
 ### Definição do Problema
 Utilizar padrões de programação para estruturar e refinar o processo de escrita de um texto, demonstrando a aplicabilidade dos padrões em tarefas de criação de conteúdo e em programação.
 
-### Passo-a-Passo da Tarefa
+### Passo a Passo da Tarefa
 1. **Pesquisa e análise:** Pesquisar sobre técnicas de escrita de textos e identificar padrões de estruturação que podem ser comparados aos padrões de programação (entregar resumo da pesquisa).
 2. **Desenvolvimento do algoritmo:** Desenvolver um algoritmo que descreva a escrita de um texto com múltiplos finais, aplicando um padrão sequencial combinado com um padrão de seleção múltipla. O algoritmo deve detalhar cada passo desde a concepção do tópico até a revisão do texto (entregar algoritmo desenvolvido).
 3. **Refinamento e implementação:** Refinar o algoritmo inicial baseando-se na pesquisa realizada e nas técnicas identificadas. Implementar o algoritmo em forma de pseudocódigo ou diagrama de fluxo, indicando os padrões de programação utilizados (entregar algoritmo refinado e pseudocódigo/diagrama).
@@ -538,7 +538,7 @@ Esta atividade foca em explorar como padrões de programação podem ser adaptad
 ## Definição do problema
 Utilizar e adaptar um padrão de programação existente em diversos contextos de programação, analisando sua flexibilidade e aplicabilidade em diferentes cenários.
 
-## Passo-a-passo da tarefa
+## Passo a Passo da tarefa
 1. **Compilação e análise de programa:** compilar e analisar um programa fornecido, discutindo em grupo sobre suas funcionalidades, estruturas de dados usadas, padrões de programação empregados, e o uso de expressões booleanas em estruturas de seleção (entregar análise do programa).
 2. **Discussão de aplicabilidade:** discutir e identificar outros contextos reais onde o programa ou seus componentes poderiam ser aplicados. Escrever variações do código que seriam adequadas para esses novos contextos (entregar descrições dos contextos e códigos adaptados).
 3. **Modificação para interatividade:** discutir como a interação do usuário com o programa poderia ser melhorada. Modificar o código para tornar a interação mais interessante e avaliar diferentes soluções propostas pelo grupo (entregar o código modificado e a avaliação das soluções).
@@ -567,7 +567,7 @@ Esta atividade foca na técnica de "dividir para conquistar" aplicada ao aprendi
 ## Definição do Problema
 Resolver um problema de programação complexo através da divisão em subproblemas menores, garantindo que cada parte seja desenvolvida em colaboração e integrada em um programa funcional completo.
 
-## Passo-a-passo da Tarefa
+## Passo a Passo da Tarefa
 
 ### **Antes da sala de aula:**
 - Em grupo, decomponha o problema principal em subproblemas que geralmente correspondem a diferentes funções ou módulos do programa. Cada subproblema deve ser atribuído a pelo menos um aluno. (**Entregar**)
@@ -604,7 +604,7 @@ O aprendizado da programação de computadores é uma tarefa difícil que pode s
 
 A análise e construção sobre artefatos de software de terceiros é uma abordagem poderosa para aprimorar a aprendizagem em programação. Com a aplicação da rubrica, o aluno será guiado a trocar fragmentos de código dinamicamente, analisar soluções de colegas e construir sobre elas, permitindo um aprendizado mais colaborativo e interativo. Esse processo incentiva a troca de ideias, melhora a compreensão das estruturas de código e promove a resolução coletiva de problemas. Além disso, a reflexão sobre a eficácia da troca dinâmica auxilia no desenvolvimento da autonomia e capacidade analítica do aluno. Dessa forma, a rubrica proporciona uma experiência prática que fortalece tanto o conhecimento técnico quanto as habilidades de trabalho em equipe na programação.
 
-## Passo-a-passo da Tarefa
+## Passo a Passo da Tarefa
 
 1. Durante a escrita individual de programas, realizar uma troca dinâmica de soluções, ou seja, ao longo dessa sessão de aprendizagem, você pode a qualquer momento trocar fragmentos de código com seus colegas quantas vezes desejar (entregar para o professor a primeira versão do código individual e também as versões após as trocas dinâmicas).
 2. Caso deseje desenvolver o código de um determinado fragmento implementado por outro, pode enviar-lhe uma mensagem para que haja a troca, caso o outro aluno concorde (entregar).
@@ -642,7 +642,7 @@ A análise e construção sobre artefatos de software de terceiros é uma aborda
 ### **Importância da Tarefa**  
 Esta atividade concentra-se em técnicas para reduzir a ansiedade associada ao aprendizado de programação. Utilizando humor e autoafirmações positivas, busca-se criar uma abordagem mais relaxada e menos intimidadora para enfrentar desafios de codificação. O objetivo é promover estratégias que ajudem os alunos a gerenciar o estresse e a ansiedade, incentivando uma postura positiva e resiliente diante dos desafios. Com a aplicação desta rubrica, os alunos serão encorajados a integrar essas práticas em sua rotina de aprendizado, refletindo sobre seu impacto na motivação e no desempenho.
 
-### **Passo-a-passo da Tarefa**
+### **Passo a Passo da Tarefa**
 1. **Desenvolvimento de autoafirmações e humor** – Criar uma lista de autoafirmações positivas e frases humorísticas para usar ao enfrentar desafios durante a programação. *(Entrega: lista de autoafirmações e frases humorísticas).*
 2. **Prática diária** – Aplicar essas autoafirmações e humor no dia a dia de aprendizado, especialmente nas sessões de programação. *(Entrega: diário de prática).*
 3. **Discussão em grupo** – Compartilhar experiências sobre o impacto do humor e das autoafirmações na abordagem dos problemas de programação. *(Entrega: resumo da discussão).*
@@ -668,7 +668,7 @@ Esta atividade concentra-se em técnicas para reduzir a ansiedade associada ao a
 
 Esta atividade foca no desenvolvimento de relações de confiança e respeito mútuo dentro de grupos de programação. A tarefa envolve a utilização de linguagem positiva e afetiva para encorajar e apoiar os membros do grupo, bem como estratégias para resolver conflitos e fomentar um ambiente colaborativo. Fortalecer a coesão do grupo e promover um ambiente de trabalho que valorize o respeito, o apoio mútuo e as interações positivas é essencial para o sucesso coletivo em tarefas de programação.
 
-## Passo-a-passo da tarefa
+## Passo a Passo da tarefa
 
 1. **Treinamento de comunicação positiva:** Todos os membros do grupo recebem treinamento sobre como usar frases positivas e evitar comentários negativos ou críticos. Cada membro pratica dando *feedback* positivo em situações simuladas (entregar um resumo das frases e situações praticadas).
 2. **Monitoramento e apoio durante a sessão de programação:** Durante as sessões de programação, os membros do grupo devem aplicar a comunicação positiva, encorajando uns aos outros e resolvendo conflitos de maneira construtiva (entregar *log* das interações durante a sessão).
@@ -695,7 +695,7 @@ Esta atividade se concentra em melhorar a interação e a participação dentro 
 ## Área
 Fomentar um ambiente colaborativo em que todos os membros do grupo se sintam encorajados a participar, compartilhar ideias e soluções, e contribuir para a resolução de problemas de programação de forma coletiva.
 
-## Passo-a-passo da Tarefa
+## Passo a Passo da Tarefa
 1. **Escolha de um líder:** O grupo seleciona um líder cuja função é monitorar e facilitar as interações, garantindo que todos os membros participem ativamente e compartilhem suas ideias e soluções (entregar nome do líder e justificativa da escolha).
 2. **Desenvolvimento de estratégias de comunicação:** O líder desenvolve estratégias para incentivar a participação, usando frases e questionamentos que promovam o diálogo e a troca de ideias (entregar as estratégias desenvolvidas).
 3. **Implementação das estratégias em uma sessão de programação:** Durante uma sessão de programação, o líder implementa as estratégias, promovendo uma discussão ativa e solicitando contribuições de todos os membros do grupo (entregar um *log* da sessão).
@@ -726,7 +726,7 @@ Esta atividade se concentra em utilizar a metodologia *Kanban* para gerenciar e 
 ## Definição do Problema
 Implementar o sistema *Kanban* para organizar e gerenciar tarefas de programação, garantindo a visualização clara do fluxo de trabalho e a entrega efetiva das tarefas.
 
-## Passo-a-passo da Tarefa
+## Passo a Passo da Tarefa
 1. **Criação do quadro *Kanban***: configurar um quadro *Kanban* com as colunas "A FAZER", "FAZENDO" e "FEITO". Incluir cartões para cada tarefa identificada, priorizando-as conforme a necessidade (entregar).
 2. **Planejamento e Subdivisão de Tarefas**: subdividir tarefas maiores em subtarefas menores, definindo prazos realistas com flexibilidade para ajustes conforme necessário (entregar lista de tarefas e subtarefas).
 3. **Execução e Atualização do *Kanban***: durante a aula, mover as tarefas da coluna "A FAZER" para "FAZENDO" à medida que forem iniciadas, e para "FEITO" quando completadas. Ajustar prazos e reorganizar tarefas conforme necessário (entregar atualizações do *Kanban*).
@@ -752,7 +752,7 @@ Implementar o sistema *Kanban* para organizar e gerenciar tarefas de programaç�
 ## Importância da Tarefa
 Esta atividade envolve a prática do *Coding Dojo* no estilo *Randori*, onde os participantes trabalham em pares para resolver um problema de programação, rotacionando os papéis de piloto e copiloto. Esse método promove a aprendizagem colaborativa e a troca contínua de conhecimentos e estratégias entre os alunos. A rubrica auxilia no desenvolvimento de um fluxo de trabalho organizado, garantindo que cada etapa – desde a definição do problema até a apresentação final – seja conduzida de maneira estruturada e produtiva. 
 
-## Passo-a-passo da Tarefa
+## Passo a Passo da Tarefa
 
 1. **Preparação e organização:** Designar um moderador para as discussões e alguém responsável pela documentação e publicação do código-fonte. Definir claramente o problema a ser resolvido e discutir abordagens possíveis (Entregar a descrição da organização e do problema escolhido).
 
@@ -780,7 +780,7 @@ Esta atividade envolve a prática do *Coding Dojo* no estilo *Randori*, onde os 
 
 Esta atividade envolve a realização de um *Coding Dojo*, uma prática colaborativa onde programadores se reúnem para melhorar suas habilidades de codificação através da prática e do compartilhamento de conhecimento. O *Dojo* utiliza a metodologia *Kata*, onde um problema é resolvido repetidamente para aperfeiçoar a solução e entender profundamente as estratégias de programação envolvidas. Dessa forma, a rubrica auxilia o aluno a fortalecer sua compreensão dos conceitos de programação, aprimorar suas habilidades de resolução de problemas e desenvolver competências essenciais de trabalho em equipe.
 
-## Passo-a-passo da tarefa
+## Passo a Passo da tarefa
 
 1. **Preparação e organização:** Escolher um moderador para as discussões, um responsável pela documentação e publicação do código-fonte, e definir o problema a ser resolvido durante o *Dojo* (entregar a descrição da organização e do problema escolhido).
 2. **Discussão de abordagens:** Discutir em grupo diferentes abordagens para resolver o problema escolhido. Planejar a solução em etapas que todos possam compreender e implementar (entregar o plano de solução).
@@ -809,7 +809,7 @@ Esta atividade envolve a realização de um *Coding Dojo*, uma prática colabora
 ## Importância da Tarefa
 Esta tarefa envolve a colaboração em equipe através da atribuição e possível realocação dinâmica de papéis específicos no processo de desenvolvimento de software. Os participantes assumem os papéis de escritor, consultor, editor e revisor, facilitando diversas abordagens cognitivas durante a escrita do código. Essa estrutura permite que o aluno compreenda diferentes abordagens na construção do código, aprimorando a qualidade da solução final. Com a aplicação da rubrica, o aluno será guiado na definição clara de papéis, promovendo a troca de conhecimento entre escritor, consultor, editor e revisor. Esse processo incentiva feedbacks construtivos, revisões iterativas e ajustes no código, fortalecendo a aprendizagem coletiva.
 
-## Passo-a-passo da tarefa
+## Passo a Passo da tarefa
 
 ### **Antes da sala de aula:**
 - O grupo decide os papéis de cada membro: escritor, consultor, editor e revisor. *(entregar)*
@@ -862,7 +862,7 @@ Muito pode ser ganho ao reservar um tempo para refletir e olhar para trás, para
 ## Descrição da Rubrica
 Refletir sobre erros e acertos é essencial para o aprimoramento contínuo do aluno em programação. A aplicação da rubrica guia o aluno a identificar suas dificuldades, relatar suas descobertas ao professor e à turma e, principalmente, extrair aprendizados significativos a partir de suas experiências e das experiências alheias. O diálogo com o professor e os colegas fortalece a capacidade de análise crítica, permitindo que o aluno aprimore sua abordagem na resolução de problemas. Dessa forma, a rubrica auxilia no desenvolvimento de um pensamento mais estruturado, autônomo e estratégico, preparando o aluno para desafios cada vez mais complexos na programação.
 
-## Passo-a-passo da tarefa
+## Passo a Passo da tarefa
 1. Individualmente, resolva os problemas computacionais demandados pelo professor (entregar).
 2. Reporte ao professor suas limitações, erros e acertos (entregar).
 3. Perante a turma, dialogue com o professor e reflita sobre as observações realizadas pelo professor (entregar).
@@ -898,7 +898,7 @@ Refletir sobre erros e acertos é essencial para o aprimoramento contínuo do al
 
 A reflexão sobre diferentes soluções computacionais é essencial para o desenvolvimento do pensamento crítico e da criatividade na programação. A aplicação da rubrica guia o aluno no processo de comparação de abordagens, promovendo a identificação de pontos fortes e fracos de cada solução. A troca de ideias no grupo fortalece a compreensão sobre a diversidade de estratégias, incentivando a colaboração e o aprendizado mútuo. Além disso, a análise crítica sobre erros e acertos individuais e coletivos ajuda o aluno a aprimorar sua confiança e eficiência ao programar. Dessa forma, a rubrica contribui para que o aluno desenvolva habilidades analíticas, comunicativas e técnicas, essenciais para a resolução de problemas computacionais de maneira mais estruturada e eficiente.
 
-## Passo-a-passo da Tarefa
+## Passo a Passo da Tarefa
 
 1. **Individual:** Cada aluno escreve seu código e o testa para verificar sua correção (entregar o código do programa).
 2. **Colaborativo:** Em grupo, cada aluno apresenta seu código e demonstra que ele passou pelos casos de teste providos pelo professor. Após a apresentação, os alunos refletem sobre as similaridades e diferenças entre os códigos e adaptam soluções incorretas (entregar interpretação individual da discussão).
@@ -933,7 +933,7 @@ Esta atividade envolve a codificação colaborativa utilizando conhecimentos e e
 
 A codificação colaborativa baseada em experiências prévias é uma abordagem poderosa para consolidar o aprendizado de programação. Essa rubrica incentiva os alunos a transferirem conhecimentos anteriores para novos desafios, promovendo uma aprendizagem significativa e efetiva reutilização de soluções. Além disso, o processo estimula a colaboração, permitindo que diferentes perspectivas e estratégias sejam combinadas para produzir soluções mais robustas. A reflexão sobre a aplicabilidade das soluções passadas fortalece a habilidade analítica dos alunos, enquanto a discussão em grupo aprimora a comunicação e o trabalho em equipe. Essa estratégia não apenas melhora a qualidade do código produzido, mas também desenvolve confiança, autonomia e engajamento no aprendizado de programação.
 
-## Passo-a-passo da Tarefa
+## Passo a Passo da Tarefa
 
 ### **Antes da sala de aula:**
 - Cheguem a um consenso sobre os objetivos gerais e específicos do projeto. (entregar)
@@ -1006,7 +1006,7 @@ Decidir qual estrutura de seleção, IF ou SWITCH CASE, é mais apropriada para 
 ### **Descrição da Rubrica**
 A estratégia de controvérsia acadêmica utilizada nesta atividade permite que os alunos analisem criticamente estruturas de controle em programação, comparando IF e SWITCH CASE de maneira reflexiva e prática. Esse método estimula o pensamento crítico, ensinando os alunos a defender e refutar argumentos, mesmo que não correspondam às suas opiniões pessoais. Além disso, ao implementar ambas as estruturas, os alunos ganham experiência prática e aprendem a avaliar vantagens e desvantagens em diferentes cenários de programação. Esse processo fortalece a habilidade de tomada de decisão baseada em evidências, preparando os alunos para desafios reais na área de desenvolvimento de software.
 
-### **Passo-a-passo da Tarefa**
+### **Passo a Passo da Tarefa**
 1. **Preparação individual:** cada aluno reflete individualmente sobre os benefícios da técnica de controvérsia acadêmica (entregar reflexões).
 2. **Debate em pares:** em pares, os alunos preparam e apresentam argumentos a favor e contra o uso das estruturas IF e SWITCH CASE, independentemente de suas opiniões pessoais (entregar os argumentos preparados).
 3. **Discussão em grupo:** os pares são reintegrados em um grupo de quatro, onde discutem os prós e contras, tentando chegar a um consenso. Se não conseguirem, preparam um relatório com os vários pontos de vista (entregar o relatório ou a conclusão do consenso).
