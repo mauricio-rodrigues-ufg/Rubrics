@@ -8,8 +8,13 @@ A fase 1 dos resultados preliminares concentra-se na avaliação inicial dos efe
 
 **Tarefa:** Praticando e compreendendo os fundamentos antes de iniciar a programação.
 
-**Explicação da tarefa:** Antes de iniciar a codificação, é crucial revisitar e fortalecer os conceitos fundamentais de programação. Esta tarefa envolve a identificação e revisão de conceitos teóricos importantes para a solução de um problema de programação, preparando os alunos para aplicar esses conceitos de forma eficaz durante a escrita do código.
+**Importância da Tarefa**
 
+A tarefa de revisar e compreender os fundamentos da programação antes de iniciar a codificação é essencial para garantir uma aprendizagem estruturada e eficaz. Em cursos introdutórios de programação, a falta de domínio conceitual pode levar a dificuldades na implementação de soluções e ao desenvolvimento de hábitos pouco eficientes de aprendizado. 
+
+Essa atividade promove a autorregulação do aprendizado, incentivando os alunos a identificar lacunas em seu conhecimento antes de enfrentarem desafios práticos. Além disso, ao compartilhar suas dúvidas e reflexões com colegas e professores, os estudantes desenvolvem habilidades de colaboração e comunicação, essenciais para o trabalho em equipe na programação. 
+
+Ao revisar os conceitos fundamentais previamente, os alunos chegam mais preparados para a fase de codificação, reduzindo frustrações e otimizando o tempo dedicado à resolução de problemas. Essa abordagem fortalece a compreensão dos princípios da programação e melhora a confiança dos estudantes, tornando o processo de aprendizado mais fluido e significativo.
 **Definição do problema:** Revisar e compreender profundamente os conceitos fundamentais que são pré-requisitos para codificar a solução de um problema de programação especificado pelo professor.
 
 **Descrição da Rubrica:**
@@ -43,9 +48,13 @@ Antes de começar a programar, é essencial que o aluno compreenda bem os concei
 
 **Tarefa:** Utilizando diagramas para explicar o desenho da solução e suas conexões com o código.
 
+**Importância da Tarefa**
 
-**Explicação**
-Esta atividade utiliza a estratégia de mapas conceituais e diagramas para facilitar a compreensão e a organização das diversas perspectivas e componentes de uma solução de programação. O uso de ferramentas visuais como o *MindMaster* permite aos alunos visualizar as relações entre os objetivos da solução e os trechos de código correspondentes, ajudando na construção colaborativa de um programa coerente.
+A utilização de diagramas e mapas conceituais na programação desempenha um papel fundamental na organização e estruturação do pensamento lógico dos alunos. Antes de escrever o código, é essencial compreender a arquitetura da solução e as conexões entre seus componentes. Essa abordagem visual facilita a identificação de relações entre os objetivos da solução, os dados de entrada e saída, promovendo um planejamento mais eficiente e reduzindo erros durante a codificação.
+
+Além disso, essa prática incentiva a colaboração e o pensamento crítico, pois os alunos precisam integrar diferentes perspectivas para criar um modelo unificado da solução. A atividade também fortalece a capacidade de abstração, uma habilidade essencial na programação, permitindo que os estudantes compreendam o problema em um nível conceitual antes de traduzi-lo em código.
+
+Ao mapear visualmente a solução e associá-la a trechos específicos do código, os alunos desenvolvem um entendimento mais profundo da lógica da programação, tornando-se mais autônomos na resolução de problemas. Essa metodologia não apenas melhora a clareza do código, mas também contribui para um aprendizado mais significativo e estruturado, preparando os alunos para desafios mais complexos no futuro.
 
 **Definição do Problema**
 Utilizar mapas conceituais para descrever as partes principais do problema, traçar os objetivos de solução e verificar como esses objetivos estão ligados aos dados de entrada e saída, visando a criação de um programa completo.
